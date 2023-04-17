@@ -1,4 +1,5 @@
 # Inspiration, 17 april 2023
+Further research outside github available on my dedicated Are.na channel [https://www.are.na/amaury-hamon/ttthesis-tools]
 
 ## Terms and topics
 - Outils de design socialement engagés
@@ -45,3 +46,27 @@
 - Interviewing designers about their personal toolbox.
     What is essential, what is accessory? Who controls the process and final output? The tool or the designer? Who gains from this?
     Do they integrate new technologies, personal tools or standards tools? do they use them in certain ways? How do they select the tools they use? Is it by default, are they political or engaged about it?
+
+
+
+## Notes consultations w/ NN and CK
+    Tactiques observations et interviews
+
+    Michel de serto : vie quotdienne on est des braconneurs: ajustement au terrain – "Invention du quotidien"
+    Détournement, etc
+    
+    Tactical Media
+
+    Comprendre comment les designers conscient se réapproprient des outils ou en construisent
+
+
+    Plan de recherche, affiner question et méthodes: interviews de extreme users, avancés
+    Checker Tableau sur les entretiens,
+
+    Piet Zwart Insitute
+    Varia Lab .nl
+
+
+    Questions:
+    1 de contextes
+    dautres plus ciblées, créer des clusters par type doutil ou thématique
