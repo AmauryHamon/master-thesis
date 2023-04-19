@@ -1,7 +1,7 @@
 This is my Master Thesis repository
 In addition to that, here are links: 
-- [https://miro.com/app/board/uXjVMZi4K0M=/](Miro Board) 
-- [https://www.are.na/amaury-hamon/ttthesis-tools](Are.na Channel)
+- [Miro Board](https://miro.com/app/board/uXjVMZi4K0M=/) 
+- [Are.na Channel](https://www.are.na/amaury-hamon/ttthesis-tools)
 
 
 # MA Media Design: MD2 Thesis
