@@ -1,3 +1,9 @@
+This is my Master Thesis repository
+In addition to that, here are links: 
+- [https://miro.com/app/board/uXjVMZi4K0M=/](Miro Board) 
+- [https://www.are.na/amaury-hamon/ttthesis-tools](Are.na Channel)
+
+
 # MA Media Design: MD2 Thesis
 
 This is the boilerplate to fork in order to kickstart your thesis. It is composed of four folders that will enable us to follow your progression during the your thesis time: from April to December. In this Github repository, you will find four folders:
