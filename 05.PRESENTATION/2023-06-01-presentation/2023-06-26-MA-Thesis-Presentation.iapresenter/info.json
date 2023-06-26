@@ -1,0 +1,13 @@
+{
+  "creatorIdentifier" : "net.ia.presenter",
+  "net.ia.presenter" : {
+    "appearance" : "dark",
+    "bodyfont" : "Riforma LL",
+    "preset" : "Default",
+    "template" : "zurich",
+    "titlefont" : "Riforma LL"
+  },
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "version" : 2
+}

@@ -1,13 +1,13 @@
 # Thinking Contextualising Creating
 	
-	Organisation Tools for a post-capital design approach	\
+	Online tools of collaborative research and knowledge making for alternative creative practices	\
 	\
 	\
 	\
 	Amaury Hamon, HEAD Media Design 22–24
 ---
 ## Starting point
-	Which tools allow a post-capital approach to design?
+	Which online tools are used by artists and designers for research? Which ones allow a collaborative approach to sharing organising knowledge? 
 	\
 	A possibility is nurturing the commons and creating tools for cooperation and exchange. One in particular is digital gardening one's knowledge, with tools such as Are.na
 ---
