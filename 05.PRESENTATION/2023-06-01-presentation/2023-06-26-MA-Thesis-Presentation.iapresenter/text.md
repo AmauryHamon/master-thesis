@@ -1,6 +1,6 @@
 # Thinking Contextualising Creating
 	
-	Online tools for collaborative research and knowledge-making, cultivating alternative creative practices	\
+	— Online tools for collaborative research and knowledge-making, cultivating alternative creative practices	\
 	\
 	\
 	\
@@ -9,6 +9,7 @@
 
 
 ---
+
 	Project important links
 	\
 	These are currently a bit outdated and in need of update, but will get there eventually, sorry
@@ -21,9 +22,95 @@
 	[Github Repo](https://github.com/AmauryHamon/master-thesis)
 ---
 ## Starting point
-	Which online tools are used by artists and designers for inspiration and research? Which ones allow collaborative approaches to sharing/organising knowledge? 
+	Which online tools are used by artists and designers for organisation, inspiration and research? Which ones allow collaborative approaches to sharing/organising knowledge? Making bridges and contextual nodes between disparate informations to spark ideas and creation. 
 	\
-	A possibility is nurturing the commons and creating/using tools for cooperation and exchange. One in particular is digital gardening one's knowledge, with tools such as Are.na
+	
+---
+
+
+/assets/Commonplace_book_mid_17th_century.jpg
+background: true
+
+
+
+From the Commonplace Book
+
+
+---
+
+
+to the filing cabinet
+
+
+/assets/mundaneum.jpeg
+background: true
+
+
+---
+
+/assets/1942 Marcel Duchamp First Papers of Surrealism exhibition, October 14, at the Whitelaw Reid Mansion in midtown Manhattan.jpg
+
+
+---
+
+
+
+/assets/The_Memex_(3002477109).jpg
+y: bottom
+
+
+---
+
+
+/assets/original_PTF2CLO8.jpeg
+
+
+---
+
+
+/assets/original_e34b0288a1e29ff998e6907e7d9f6fe8.jpg
+
+
+---
+
+
+/assets/original_a03923e76bb958b2fda8a72e7b7af3ec.jpg
+
+
+
+---
+
+
+/assets/plan_moi_LOW.jpg
+
+
+
+---
+
+
+/assets/ci-ef-associations-2021-v6.1881x1266.jpg
+background: true
+
+
+Ed Fornieles, Associations, 2021
+---
+
+
+
+/assets/topographytimelines_shrink_jxgw9l.webp
+y: top
+
+
+---
+
+
+/assets/original_695abd59622b5708c68622338a384cca.jpg
+
+
+---
+
+	## A possibility is nurturing the commons by creating/using online tools for cooperation and exchange. One in particular is digital gardening one's knowledge, with tools such as Are.na
+
 ---
 
 	A *Digital Garden*
@@ -54,6 +141,7 @@
 	[*Post-Capital: A Reader*, Edited by Michelle Cotton, Mousse, 2022](https://www.moussemagazine.it/shop/post-capital-a-reader/)
 	[*Designing Economic Cultures*, Bianca Elzenbaumer, PhD Goldsmiths 2013](https://www.dropbox.com/s/7t9s4b9oj82o2e6/BNA_Elzenbaumer_PhD_thesis_2014-compressed.pdf?dl=0)
 	[*The Critical Makers Reader - (Un)learning Technology*](https://arena-attachments.s3.amazonaws.com/10803846/a679cf1328c38b31139475cd27e97f13.pdf?1613598429)
+	[*A Hacker Manifesto*, McKenzie Wark, 2004](https://arena-attachments.s3.amazonaws.com/6727417/688f6aa2abe1e00090c087cb6a94ae59.pdf?1586096839)
 
 
 	Key ressources on *Digital Gardening*
@@ -66,29 +154,60 @@
 ---
 	Key ressources on *Knowledge & Organisation*
 	[*EKSIG 2019 Conference, Knowing Together — experiential knowledge and collaboration*, 2019](https://www.dropbox.com/s/cs7ourpskq1ssy5/Knowing_Together_experiential_knowledge_and_collaboration.pdf?dl=0)
-	[*As we may think*, Vannevar Bush, 1945 ](https://arena-attachments.s3.amazonaws.com/372814/4d4149b0e5fe3dbff1f93b1845869d0a.pdf?1429983115) 
-	[*Tools for conviviality*, Ivan Illich](https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf)
+	[*As we may think*, Vannevar Bush, 1945 ](https://arena-attachments.s3.amazonaws.com/372814/4d4149b0e5fe3dbff1f93b1845869d0a.pdf?1429983115)
+	[*Experimental systems : future knowledge in artistic research*, Michael Schwab, 2013](https://archive.org/details/experimentalsyst0000unse) 
+	[“How Do People Get New Ideas?”, Isaac Asimov, 1959](https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas/)
 
 
 	Key ressources on *Commons*
-	[*COMMUNITIES AT A CROSSROADS*, Annalisa Pelizza, 2018](https://arena-attachments.s3.amazonaws.com/3751105/8c22de2a008133131f7ed4457f0d4ff0.pdf?1551325074) 
+	[*Communities at a Crossroads*, Annalisa Pelizza, 2018](https://arena-attachments.s3.amazonaws.com/3751105/8c22de2a008133131f7ed4457f0d4ff0.pdf?1551325074) 
 	[*Art as social practice, Technologies for change*, Tine Burrough & Judy Walgren, 2022](https://arena-attachments.s3.amazonaws.com/17205332/03d1f4f250c64727c42a4d57aea1a979.pdf?1657774052)
 	[*The Community Memory Project: an introduction, 1982](https://arena-attachments.s3.amazonaws.com/12583013/48121cb13b8a43ffa57485c1e10dbdd4.pdf?1626706207)
 
 
 ---
+	Ressources brought by Nicolas Nova and Joël Vacheron (Presentation 2023.06.01)
+	[Zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten)
+	[*Tools for conviviality*, Ivan Illich](https://arl.human.cornell.edu/linked%20docs/Illich_Tools_for_Conviviality.pdf)
+	[*Une histoire de la fiche erudite*, J-F Bert, 2017](https://presses.enssib.fr/catalogue/une-histoire-de-la-fiche-erudite)
+	[*Comment pense un savant?*, J-F Bert, 2017](https://anamosa.fr/livre/comment-pense-un-savant/)
+	[*Voir les savoirs*, J-F Bert, Jérôme Lamy, 2021](https://www.cairn.info/voir-les-savoirs--9782381910307.htm)
+	[*L’ordre matériel du savoir*, Françoise Waquet, 2015]()
 
-# Observation Method #1: Survey of Online Toolbox  
+
+---
+## Observation Method #1: 
+	Survey of Online Toolbox  
+	\
+	i.e what is out there and used by creatives?
+
+---
+
+
+/assets/Capture d’écran 2023-05-30 à 23.15.11.png
+size: contain
+
+
+/assets/Capture d’écran 2023-05-30 à 23.12.35.png
+
+---
+
 	- Social Media: Tumblr, Pinterest, Instagram…
 	- Blogs
 	- Editorial Press Websites
-	- Academic & Research platforms
-	- No-code Personal Vault/Garden: TiddlyWiki, Obsidian, Zotero, Notion, etc.
+	- Academic & Research platforms/apps: Zotero
+	- No-code Personal Vault/Garden: TiddlyWiki, Obsidian, 
 	- Fully-coded custom personal websites
-	...
+	- Desktop folders
+	- Browser Bookmarks
+	- Notion
 	- Are.na
+	- …
 
-/assets/Capture d’écran 2023-05-30 à 23.12.35.png
+---
+
+
+/assets/original_25c6866a53e247a071f9463d37a7de1a.jpg
 
 
 ---
@@ -98,6 +217,21 @@
 
 
 /assets/Capture d’écran 2023-05-31 à 16.01.06.png
+
+
+---
+
+
+/assets/Capture d’écran 2023-05-31 à 16.14.26.png
+
+
+
+---
+
+
+/assets/obsidian-screenshot.png
+size: contain
+
 
 
 ---
@@ -267,5 +401,22 @@
 	- Update Github & Miro (Summer 2023)
 	- Keep reading/collecting on are.na
 
+
+---
+	Desired Thesis output
+	0. EN first, FR optional (depends on interviews)
+	1. Website first
+		- index interviews
+		- thesis e-read, web2print, pdf download?
+		- are.na as API? [examples](https://www.are.na/are-na/powered-by-are-na)
+		- example: [1](http://www.designingeconomiccultures.net/), [2](https://onpractices.com/)
+	2. Printed book second
 ---
 	 [amaury.hamon@etu.hesge.ch](mailto:amaury.hamon@etu.hesge.ch) 
+
+
+---
+
+
+/assets/original_aed1aa331b279b038e52e5694a500f7e.png
+
